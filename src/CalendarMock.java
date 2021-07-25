@@ -1,7 +1,7 @@
 /**
  * CalendarMock.java
  * 
- * @author Anonymous
+ * @author
  */
 
 
