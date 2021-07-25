@@ -1,6 +1,6 @@
 /**
  * CalendarView.java
- * @author Anonymous
+ * @author
  */
 
 import java.awt.BorderLayout;
