@@ -1,6 +1,6 @@
 /**
  * View.java
- * @author Anonymous
+ * @author 
  */
 
 import java.time.LocalDate;
